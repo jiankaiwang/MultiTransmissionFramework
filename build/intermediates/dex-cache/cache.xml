@@ -2,25 +2,25 @@
 <items version="2" >
 
     <item
-        jar="D:\code\android\MultiTouchClient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="D:\code\android\MultiTransmissionFramework\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="8618b7d9c3e39bad55e16e6e1cb7f8e51a0b761b">
-        <dex dex="D:\code\android\MultiTouchClient\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f8610a9c5e4241174ca780fd0ca186fa20f4b462.jar" />
-    </item>
-    <item
-        jar="D:\code\android\MultiTouchClient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="bfe049b2db2c841f6fc6e9a80773b193f978c348">
-        <dex dex="D:\code\android\MultiTouchClient\app\build\intermediates\pre-dexed\debug\instant-run_9ea26cd4fbf37537c45fa0a2233ebff48cd865e6.jar" />
+        sha1="2c1f11251442ed70e2f3df5c512fe9ceb50e5621">
+        <dex dex="D:\code\android\MultiTransmissionFramework\app\build\intermediates\pre-dexed\debug\instant-run_405ee7a5c436e69c8004b56e120ef887f32845ce.jar" />
     </item>
     <item
         jar="C:\Users\JianKaiWang\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="D:\code\android\MultiTouchClient\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_87e023a848e43f780feec90ce3a713df665c36c6.jar" />
+        <dex dex="D:\code\android\MultiTransmissionFramework\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_87e023a848e43f780feec90ce3a713df665c36c6.jar" />
+    </item>
+    <item
+        jar="D:\code\android\MultiTransmissionFramework\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98ae52b10739f609910b2aca3f8dd8afbc2c5594">
+        <dex dex="D:\code\android\MultiTransmissionFramework\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ffcbf63db8a13a0c0a062535b06a485ac48144d8.jar" />
     </item>
 
 </items>

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\code\\android\\MultiTouchClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_multi_touch_transmission01.xml",
-        "source": "D:\\code\\android\\MultiTouchClient\\app\\src\\main\\res\\layout\\activity_multi_touch_transmission01.xml"
+        "merged": "D:\\code\\android\\MultiTransmissionFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_multi_touch_transmission02.xml",
+        "source": "D:\\code\\android\\MultiTransmissionFramework\\app\\src\\main\\res\\layout\\activity_multi_touch_transmission02.xml"
     },
     {
-        "merged": "D:\\code\\android\\MultiTouchClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_multi_touch_transmission02.xml",
-        "source": "D:\\code\\android\\MultiTouchClient\\app\\src\\main\\res\\layout\\activity_multi_touch_transmission02.xml"
+        "merged": "D:\\code\\android\\MultiTransmissionFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_multi_touch_transmission01.xml",
+        "source": "D:\\code\\android\\MultiTransmissionFramework\\app\\src\\main\\res\\layout\\activity_multi_touch_transmission01.xml"
     }
 ]
